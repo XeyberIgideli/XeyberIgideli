@@ -1,4 +1,4 @@
-<h1 align="left">Jr. JS Developer</h1>
+<h1 align="left">Software Developer</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: Node.js,React<br>🎯 Goals: To learn C,Python,Go</p>
+<p align="left">📚 I'm currently learning Python</p>
 
 ###
 
@@ -16,6 +16,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
